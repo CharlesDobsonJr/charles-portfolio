@@ -195,8 +195,8 @@ span {
 }
 
 .about-img img {
-    width: 27vw;
-    height: 35vw;
+    width: 35vw;
+    /* height: 35vw; */
     border-radius: 10%;
 }
 
